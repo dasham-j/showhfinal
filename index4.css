@@ -30,36 +30,29 @@
 .macbook-pro-14-4-inner {
   top: 465px;
 }
-.phone-no {
-   
-  top: 470px;
-  left: 593px;
-  color: rgba(32, 31, 31, 0.63);
-}
+
 .h,
-.h1,
-.name,
-.phone-no {
+.h1{
   top: 475px;
   position: absolute;
+  cursor: pointer;
 }
 
-.name {
-    
-  top: 385px;
-  left: 593px;
-  color: rgba(32, 31, 31, 0.62);
-}
+
 .h,
 .h1 {
   top: 465px;
   left: 602px;
   font-size: var(--font-size-13xl);
   
-  cursor: pointer;
+  
 }
 .h1 {
   top: 374px;
+}
+::placeholder {
+  color: white;
+  opacity: 0.4; /* Firefox */
 }
 input{
   caret-color: white;
@@ -69,7 +62,7 @@ input{
   height: 50px;
   top: 10px;
   border: transparent;
-  text-indent: -99999px;
+  
   font-size: 10px;
   background: transparent;
   font-family: 'Times New Roman', Times, serif;
@@ -78,7 +71,7 @@ input{
   input:focus
 {
    
-    outline-offset: 0px;
+    
     outline: none;
 }
 .rectangle-div {
