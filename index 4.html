@@ -17,13 +17,11 @@
       <div class="macbook-pro-14-4-child"></div>
       <div class="macbook-pro-14-4-item" id="rectangle1"></div>
       <div class="macbook-pro-14-4-inner" id="rectangle2"></div>
-      <b class="phone-no" id = "txt2"></b>
-      <b class="name" id = "txt1"> </b>
-      <input class="h" id="hText2" type="number" name="num"> 
-      <input class="h1" id="hText" name="name">
-      <span id="result"></span>
-      <span id="result2"></span>
-      <input type="submit" name="sub"class="rectangle-div" id="rect"></div>
+      
+      <input class="h" id="hText2" type="number" name="num" placeholder="Phone Number"> 
+      <input class="h1" id="hText" name="name" placeholder="Name">
+      
+      <input type="submit" name="sub"class="rectangle-div" id="rect" value=""></div>
       <b class="arrow" id="arr">➢</b>
       <b class="name1" id="nAMEText1"></b>
       <b class="payment-gateway">PAYMENT GATEWAY</b>
@@ -45,8 +43,7 @@
       document.getElementById('nAMEText1').innerHTML = " Pay " + (ct*190)+" for "+ct+" Seats "
       if (rectangle1) {
         rectangle1.addEventListener("click", function (e) {
-          document.getElementById('txt1').hidden = true;
-          getValue();
+          
         });
       }
       
@@ -54,65 +51,34 @@
       var txt2 = document.getElementById("tx2");
       if (rectangle2) {
         rectangle2.addEventListener("click", function (e) {
-          document.getElementById('txt2').hidden = true;
-          getValue2();
+          
+          
         });
       }
       var hText = document.getElementById("hText");
       if (hText) {
         hText.addEventListener("click", function (e) {
-          document.getElementById('txt1').hidden = true;
+          
         });
       }
-      // var txt1 = document.getElementById("txt1");
-      // if (txt1) {
-      //  txt1.addEventListener("click", function (e) {
-      //     document.getElementById('txt2').hidden = true; 
-      //   });
-      // }
-      // var txt2 = document.getElementById("txt2");
-      // if (txt2) {
-      //  txt2.addEventListener("click", function (e) {
-      //     document.getElementById('txt2').hidden = true; 
-      //   });
-      // }
       
       var hText2 = document.getElementById("hText2");
       if (hText2) {
         hText2.addEventListener("click", function (e) {
-          document.getElementById('txt2').hidden = true;
+          
         });
       }
       
-      if (nAMEText1 || arr || rect ) {
-        nAMEText1.addEventListener("click", function (e) {
-         t1=getValue();
-         t2=getValue2();
-         //alert(ct+" Tickets for Mr./Mrs."+t1 + ", Confirmation sent on Phone No."+t2);
-         
-        });
-      }
+      
       
           
         
       
-      function getValue(){
-
-        let tx = document.getElementById("hText");
-        let txtValue=tx.value;
-        return txtValue;
-
-
-      }
-      function getValue2(){
-
-      let tx2 = document.getElementById("hText2");
-      let txtValue2=tx2.value;
-      return txtValue2;
+      
       
 
 
-}
+
       </script>
   </body>
 </html>
