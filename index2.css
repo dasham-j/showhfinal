@@ -1,0 +1,109 @@
+.macbook-pro-14-2-child {
+  position: absolute;
+  top: 1052.4px;
+  left: 776.73px;
+  background: linear-gradient(
+    180deg,
+    rgba(11, 2, 7, 0.9),
+    rgba(0, 108, 121, 0.9)
+  );
+  width: 1067.56px;
+  height: 769.71px;
+  transform: rotate(-90.09deg);
+  transform-origin: 0 0;
+}
+.images-5-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 800px;
+  height: 987px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  top: 856px;
+  left: 887px;
+  width: 53px;
+  height: 34px;
+  cursor: pointer;
+}
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  top: 753px;
+  left: 887px;
+  width: 53px;
+  height: 78px;
+}
+.vector-icon2 {
+  top: 856px;
+  left: 1382px;
+  height: 34px;
+}
+.vector-icon3,
+.vector-icon4,
+.vector-icon5 {
+  position: absolute;
+  top: 753px;
+  left: 1383px;
+  width: 53px;
+  height: 78px;
+}
+.vector-icon4,
+.vector-icon5 {
+  top: 797px;
+  left: 1276px;
+  height: 34px;
+}
+.vector-icon5 {
+  top: 693px;
+  height: 78px;
+}
+.vector-icon6,
+.vector-icon7 {
+  position: absolute;
+  top: 758px;
+  left: 1127px;
+  width: 68px;
+  height: 34px;
+}
+.vector-icon7 {
+  top: 636px;
+  height: 104px;
+}
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  top: 797px;
+  left: 993px;
+  width: 53px;
+  height: 34px;
+}
+.vector-icon9 {
+  top: 693px;
+  height: 78px;
+}
+.a-man-is {
+  margin: 0;
+}
+.a-man-is-container {
+  position: absolute;
+  top: 33px;
+  left: 821px;
+  font-weight: 800;
+  display: inline-block;
+  width: 679px;
+  height: 594px;
+}
+.macbook-pro-14-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

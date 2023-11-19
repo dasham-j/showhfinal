@@ -1,0 +1,233 @@
+.macbook-pro-14-1-child {
+  position: absolute;
+  top: -76px;
+  left: -94px;
+  background: linear-gradient(
+    180deg,
+    rgba(182, 17, 107, 0.5),
+    rgba(182, 17, 107, 0)
+  );
+  width: 1664px;
+  height: 1928px;
+}
+.px-clapper-board-vector-2-icon {
+  position: absolute;
+  bottom: 246.86px;
+  left: 0;
+  width: 166px;
+  height: 190.14px;
+  object-fit: cover;
+}
+.macbook-pro-14-1-item {
+  position: absolute;
+  top: 278px;
+  left: 20px;
+  width: 370px;
+  height: 250px;
+  overflow-x: auto;
+}
+.group-child {
+  position: absolute;
+  top: 580.29px;
+  left: 7.74px;
+  border-radius: var(--br-6xs);
+  background: linear-gradient(90deg, #b6116b, rgba(217, 217, 217, 0));
+  width: 356.26px;
+  height: 26.71px;
+}
+.group-item {
+  position: absolute;
+  top: 582.72px;
+  left: 268.48px;
+  width: 20.65px;
+  height: 19.42px;
+  object-fit: cover;
+}
+.blue-beetleeng,
+.div {
+  position: absolute;
+  display: inline-block;
+}
+.blue-beetleeng {
+  top: 581.29px;
+  left: 30.98px;
+  font-weight: 600;
+  width: 219.43px;
+  height: 26.71px;
+}
+.div {
+  top: 580.29px;
+  left: 294.3px;
+  width: 43.89px;
+  height: 24.28px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-3xs);
+  width: 364.26px;
+  height: 551.87px;
+  object-fit: cover;
+}
+.rectangle-icon,
+.rectangle-parent {
+  position: absolute;
+  top: 227px;
+  left: 1110px;
+  width: 364px;
+  height: 608px;
+}
+.rectangle-icon {
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-3xs);
+  width: 372px;
+  height: 550.98px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 579.34px;
+  left: 5.28px;
+  border-radius: var(--br-6xs);
+  background: linear-gradient(90deg, #b6116b, rgba(217, 217, 217, 0));
+  width: 350.81px;
+  height: 26.66px;
+}
+.group-child1 {
+  position: absolute;
+  top: 581.76px;
+  left: 247.94px;
+  width: 21.1px;
+  height: 19.39px;
+  object-fit: cover;
+}
+.div1,
+.jawanhindi {
+  position: absolute;
+  display: inline-block;
+}
+.jawanhindi {
+  top: 580.34px;
+  left: 29.01px;
+  font-weight: 600;
+  width: 171.45px;
+  height: 26.66px;
+}
+.div1 {
+  top: 579.34px;
+  left: 279.59px;
+  width: 44.84px;
+  height: 24.24px;
+}
+.vector-parent {
+  position: absolute;
+  top: 227px;
+  left: 166px;
+  width: 364px;
+  height: 607px;
+  cursor: pointer;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 199px;
+  border-radius: var(--br-3xs);
+  width: 366.8px;
+  height: 550.09px;
+  object-fit: cover;
+}
+.group-child3 {
+  position: absolute;
+  top: 578.39px;
+  left: 208.2px;
+  border-radius: var(--br-6xs);
+  background: linear-gradient(90deg, #b6116b, rgba(217, 217, 217, 0));
+  width: 358.8px;
+  height: 26.62px;
+}
+.group-child4 {
+  position: absolute;
+  top: 580.81px;
+  left: 478.6px;
+  width: 20.8px;
+  height: 19.36px;
+  object-fit: cover;
+}
+.div2,
+.the-nun-2english {
+  position: absolute;
+  display: inline-block;
+}
+.the-nun-2english {
+  top: 580.38px;
+  left: 218.6px;
+  font-weight: 600;
+  width: 247px;
+  height: 26.62px;
+}
+.div2 {
+  top: 578.39px;
+  left: 507.2px;
+  width: 44.2px;
+  height: 24.2px;
+}
+.cam2-1-icon {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 1422px;
+  height: 996px;
+  object-fit: cover;
+}
+.sh-who-se {
+  position: absolute;
+  top: 100px;
+  left: 435px;
+  width: 1422px;
+  height: 1041px;
+}
+.vector-group {
+  position: absolute;
+  top: 227px;
+  left: 435px;
+  width: 1422px;
+  height: 1041px;
+}
+.sh-who-se {
+  top: 0px;
+  left: 0;
+  
+  width: 1200px;
+  height: 1000px;
+  
+}
+.hs-1-icon{
+  
+  top: 0px;
+  left: 500px;
+  width: 700.43px;
+  height: 400.78px;
+  
+}
+
+.sh-who-se-parent {
+  position: absolute;
+  top: 0px;
+  left: 460px;
+  width: 3000px;
+  height: 1200.89px;
+  
+}
+.macbook-pro-14-1 {
+  position: relative;
+  background-color: #0d0444;
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
