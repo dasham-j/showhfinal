@@ -1,6 +1,6 @@
 <?php  
 
-$name = $_POST['hText'];
+$name = $_POST['name'];
 
 
 print "Name: $name";
