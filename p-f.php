@@ -5,8 +5,9 @@
 $conn = mysqli_connect('127.0.0.1', 'root', 'HELLO@4321','test1');
 
 // get the post records
-$txtNum = $_POST['num'];
 $txtName = $_POST['name'];
+$txtNum = $_POST['num'];
+
 
 
 if(!$conn){
